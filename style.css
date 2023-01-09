@@ -1,10 +1,11 @@
-body{
- display: flex;
- justify-content: center;
- height:100vh;
- align-items: center;
+body {
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  align-items: center;
 }
-li{
-    justify-content: space-between;
-    margin: 15px 0px;
+
+li {
+  justify-content: space-between;
+  margin: 15px;
 }

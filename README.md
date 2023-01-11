@@ -1,28 +1,29 @@
-# Microverse Inc
+# Awesome Books Project For Microverse By Luzinda Douglas and Daniel Majesty Owiri.
 
-This project contains the Awesome Books Project, coded according to requirements provided by Microverse Inc.
+In this project, we will build a basic website that allows users to add/remove books from a list. We will achieve that by using JavaScript objects and arrays. We will also need to dynamically modify the DOM and add basic events.
 
 # Project Name
 
 ## Awesome Books
 
-# This project was built with:
+# Built With:
 
-HTML5
+HTML
+
+css
 
 JavaScript
 
-Linters
+Visual Studio Code
 
-Website was deployed with Github Pages
+# Getting Started
 
-# Version Control System
+Instructions on how to access this project locally. To Access my project locally please follow the following instructions;
 
-GIT
+1. clone the project from the link:
+   https://github.com/LDouglasOT/todo-project.git
 
-# Hosting Platform
-
-Github
+2. Open it on your Visual Studio Code and start using it.
 
 # 👤 Authors
 

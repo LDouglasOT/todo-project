@@ -1,6 +1,5 @@
-
- /* eslint-disable */
- const maincontainer = document.querySelector('.awesomebooks');
+/* eslint-disable */
+const maincontainer = document.querySelector('.awesomebooks');
 const addmarkup = () => {
   maincontainer.innerHTML = '';
   const data = JSON.parse(localStorage.getItem('todo')) || [];

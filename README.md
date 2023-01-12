@@ -1,52 +1,278 @@
-# Awesome Books Project For Microverse By Luzinda Douglas and Daniel Majesty Owiri.
+<a name="readme-top"></a>
 
-In this project, we will build a basic website that allows users to add/remove books from a list. We will achieve that by using JavaScript objects and arrays. We will also need to dynamically modify the DOM and add basic events.
+<!--
+HOW TO USE:
+This is an example of how you may give instructions on setting up your project locally.
 
-# Project Name
+Modify this file to match your project and remove sections that don't apply.
 
-## Awesome Books
+REQUIRED SECTIONS:
+- Table of Contents
+- About the Project
+  - Built With
+  - Live Demo
+- Getting Started
+- Authors
+- Future Features
+- Contributing
+- Show your support
+- Acknowledgements
+- License
 
-# Built With:
+OPTIONAL SECTIONS:
+- FAQ
 
-HTML
+After you're finished please remove all the comments and instructions!
+-->
 
-css
+<div align="center">
+  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
 
-JavaScript
+  <!-- <h3><b>Microverse README Template</b></h3> -->
 
-Visual Studio Code
+</div>
 
-# Getting Started
+<!-- TABLE OF CONTENTS -->
 
-Instructions on how to access this project locally. To Access my project locally please follow the following instructions;
+# 📗 Table of Contents
 
-1. clone the project from the link:
-   https://github.com/LDouglasOT/todo-project.git
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
 
-2. Open it on your Visual Studio Code and start using it.
+<!-- PROJECT DESCRIPTION -->
 
-# 👤 Authors
+# 📖 [your_project_name] <a name="about-project"></a>
 
-## Luzinda Douglas
+> This is an interactive todo app that takes in books ans authors as inout and takes advantage of localstorage to store data.
 
-GitHub: [@Luzinda](https://github.com/LDouglasOT/)
+**[Book Store]** is an interactive books program that keeps track of all books saved by the user with all crude operations
 
-## Daniel Majesty Owiri
+## 🛠 Built With <a name="built-with"></a>
 
-GitHub: [@dannieMo](https://github.com/DannieMo/)
+### Tech Stack <a name="tech-stack"></a>
 
-LinkedIn: [Daniel Majesty Owiri](https://linkedin.com/in/daniel-majesty-owiri/)
+> Describe the tech stack and include only the relevant sections that apply to your project.
 
-# 🤝 Contributing
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">HTML</a></li>
+     <li><a href="https://reactjs.org/">CSS</a></li>
+      <li><a href="https://reactjs.org/">JAVASCRIPT</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Server</summary>
+  <ul>
+    <!-- <li><a href="https://expressjs.com/">Express.js</a></li> -->
+  </ul>
+</details>
+
+<details>
+<summary>Database</summary>
+  <ul>
+    <!-- <li><a href="https://www.postgresql.org/">PostgreSQL</a></li> -->
+  </ul>
+</details>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+> Describe between 1-3 key features of the application.
+
+- **[Read_Books]**
+- **[Write_books]**
+- **[Update_Books]**
+- **[Drag_and_drop]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Add a link to your deployed project.
+
+- [Live Demo Link](https://yourdeployedapplicationlink.com)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
+
+<!--
+Example command:
+
+```sh
+ gem install rails
+```
+ -->
+
+### Setup
+
+Clone this repository to your desired folder:
+
+<!--
+Example commands:
+
+```sh
+  cd my-folder
+  git clone git@github.com:myaccount/my-project.git
+```
+--->
+
+### Install
+
+Install this project with:"npm install" command with any nodejs environment 
+
+<!--
+Example command:
+
+```sh
+  cd my-project
+  gem install
+```
+--->
+
+### Usage
+
+To run the project, Open it using live server
+
+<!--
+Example command:
+
+```sh
+  rails server
+```
+--->
+
+### Run tests
+
+To run tests, run the following command:
+
+<!--
+Example command:
+
+```sh
+  bin/rails test test/models/article_test.rb
+```
+--->
+
+### Deployment
+
+You can deploy this project using:
+
+<!--
+Example:
+
+```sh
+
+```
+ -->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+> Mention all of the collaborators of this project.
+
+👤 **Author1**
+
+- GitHub: [@githubhandle](https://github.com/LDouglasOT)
+- Twitter: [@twitterhandle](https://twitter.com/kawempes_finest)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/luzinda-douglas-69bb811b8/)
+
+👤 **Author2**
+
+- GitHub: [@githubhandle](https://github.com/DannieMo)
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] **[new_feature_1]**
+- [ ] **[new_feature_2]**
+- [ ] **[new_feature_3]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the issues page.
+Feel free to check the [issues page](../../issues/).
 
-Show your support
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Give a ⭐️ if you like this project!
+<!-- SUPPORT -->
 
-# 📝 License
+## ⭐️ Show your support <a name="support"></a>
 
-This project is MIT licensed.
+> Write a message to encourage readers to support your project
+
+If you like this project...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> Give credit to everyone who inspired your codebase.
+
+I would like to thank...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FAQ (optional) -->
+
+## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>

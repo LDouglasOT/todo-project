@@ -1,5 +1,6 @@
 body {
   display: flex;
+
   /* justify-content: center; */
   height: 100vh;
   align-items: center;
@@ -16,6 +17,7 @@ li {
 ul {
   width: 90%;
 }
+
 .bookscontainer {
   display: flex;
   flex-direction: column;
@@ -30,9 +32,10 @@ ul {
   align-items: center;
   justify-content: center;
   border: 1px solid gray;
-  padding: 10px 0px;
+  padding: 10px 0;
   width: 60%;
 }
+
 .awesomebooks {
   width: 90%;
 }
@@ -44,14 +47,15 @@ ul {
   width: 100%;
   border: 1px solid gray;
 }
+
 .navlist {
-  margin: 0px 50px;
+  margin: 0 50px;
 }
 
 .navlist ul {
   display: flex;
   justify-content: space-between;
-  margin: 0px 24px;
+  margin: 0 24px;
 }
 
 .formcontainer {
@@ -79,6 +83,7 @@ form {
   display: flex;
   flex-direction: column;
 }
+
 .contactcontainer {
   width: 60%;
   display: flex;

@@ -48,6 +48,8 @@ const addbook=()=>{
   });  
 }
 addbook()
+let date=new Date()
+document.querySelector(".dates").innerHTML=date
 
 
 const add=document.querySelector(".add")

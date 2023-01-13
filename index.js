@@ -5,7 +5,7 @@ class Books {
     this.author = author;
   }
 }
-
+const boook = new Books(1, "hbjbjs", "author");
 const removebook = () => {
   document.querySelectorAll(".removetodo").forEach((Element) => {
     Element.addEventListener("click", (e) => {
@@ -18,9 +18,7 @@ const removebook = () => {
     });
   });
 };
-
 const maincontainer = document.querySelector(".awesomebooks");
-
 const addmarkup = () => {
   maincontainer.innerHTML = "";
   const data = JSON.parse(localStorage.getItem("todo")) || [];
@@ -30,12 +28,10 @@ const addmarkup = () => {
     li.innerHTML = `<span>${todo.todo}</span><button class='removetodo' data-id='${todo.id}'>Remove todo</button>`;
     ul.append(li);
   });
-
   maincontainer.appendChild(ul);
   removebook();
 };
 addmarkup();
-
 const addbook = () => {
   document.querySelector(".todosbmit").addEventListener("submit", (e) => {
     e.preventDefault();

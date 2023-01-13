@@ -1,4 +1,4 @@
-/*body {
+/* body {
   display: flex;
   justify-content: center;
   height: 100vh;
@@ -64,7 +64,7 @@ hr {
   box-shadow: 3px 2px 0 black;
 }
 
-/*.form {
+/* .form {
   width: 40%;
   display: flex;
   flex-direction: column;

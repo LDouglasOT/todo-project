@@ -1,5 +1,6 @@
 body {
   display: flex;
+
   /* justify-content: center; */
   height: 100vh;
   align-items: center;
@@ -8,62 +9,68 @@ body {
 
 li {
   justify-content: space-between;
-  width:100%;
+  width: 100%;
   display: flex;
   margin: 5px 2px;
 }
-ul{
+
+ul {
   width: 90%;
 }
-.bookscontainer{
-display: flex;
-flex-direction: column;
-align-items: center;
-justify-content: center;
-width: 50%;
+
+.bookscontainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 50%;
 }
-.bookscontainerx{
+
+.bookscontainerx {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   border: 1px solid gray;
-  padding: 10px 0px;
+  padding: 10px 0;
   width: 60%;
 }
-.awesomebooks{
+
+.awesomebooks {
   width: 90%;
 }
-.navbar{
+
+.navbar {
   display: flex;
   align-items: center;
   justify-content: space-between;
   width: 100%;
   border: 1px solid gray;
 }
-.navlist{
-  margin: 0px 50px;
+
+.navlist {
+  margin: 0 50px;
 }
 
-.navlist ul{
+.navlist ul {
   display: flex;
   justify-content: space-between;
-  margin: 0px 24px;
+  margin: 0 24px;
 }
 
-.formcontainer{
+.formcontainer {
   display: none;
-  margin:auto 10px;
+  margin: auto 10px;
   width: 40%;
 }
 
-form{
+form {
   display: flex;
-width: 50%;
+  width: 50%;
   flex-direction: column;
 }
 
-.contactus{
+.contactus {
   display: flex;
   justify-content: space-between;
   width: 100%;
@@ -71,24 +78,27 @@ width: 50%;
   align-items: center;
   background-color: aqua;
 }
-.contactus li{
+
+.contactus li {
   display: flex;
   flex-direction: column;
-
 }
-.contactcontainer{
+
+.contactcontainer {
   width: 60%;
   display: flex;
   justify-content: center;
   flex-direction: column;
 }
-.footer{
+
+.footer {
   width: 100%;
   padding: 5px;
   border: 1px solid gray;
   margin-top: auto;
 }
-.dates{
+
+.dates {
   margin-left: auto;
   margin-right: 10px;
 }

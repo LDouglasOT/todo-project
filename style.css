@@ -12,6 +12,7 @@ li {
   display: flex;
   margin: 5px 2px;
 }
+
 ul {
   width: 90%;
 }
@@ -22,6 +23,7 @@ ul {
   justify-content: center;
   width: 50%;
 }
+
 .bookscontainerx {
   display: flex;
   flex-direction: column;
@@ -34,6 +36,7 @@ ul {
 .awesomebooks {
   width: 90%;
 }
+
 .navbar {
   display: flex;
   align-items: center;
@@ -71,6 +74,7 @@ form {
   align-items: center;
   background-color: aqua;
 }
+
 .contactus li {
   display: flex;
   flex-direction: column;

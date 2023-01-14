@@ -35,49 +35,52 @@ body {
   text-align: center;
   font-size: 35px;
 }
-ul{
+
+ul {
   list-style: none;
   width: 100%;
-  padding: 0px;
+  padding: 0;
 }
-li{
+
+li {
   display: flex;
   justify-content: space-between;
   align-items: center;
   width: 100%;
-  border-width: 0px 0px 2px 0px;
+  border-width: 0 0 2px 0;
   border-style: solid;
-
 }
-.awesomebooks{
+
+.awesomebooks {
   border: 1px solid gray;
   width: 150%;
-  padding: 10px 0px;
+  padding: 10px 0;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
-li span{
+li span {
   margin: 4px;
 }
-li button{
+
+li button {
   margin: 4px;
   padding: 4px;
 }
 
-.todosbmit{
-  margin:10px;
+.todosbmit {
+  margin: 10px;
 }
 
-h3{
+h3 {
   margin-left: auto;
   margin-right: auto;
 }
-.fullcontainer{
+
+.fullcontainer {
   display: flex;
   align-items: center;
   justify-content: center;
   width: 100%;
-
 }

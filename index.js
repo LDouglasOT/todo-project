@@ -1,3 +1,4 @@
+/* eslint-disable */
 const maincontainer = document.querySelector('.awesomebooks');
 const addmarkup = () => {
   maincontainer.innerHTML = '';
@@ -15,7 +16,6 @@ const addmarkup = () => {
       e.preventDefault();
       const id = Element.getAttribute('data-id');
       let Storagedata = JSON.parse(localStorage.getItem('todo')) || [];
-      console.log(Storagedata);
       Storagedata = Storagedata.filter((todo) => todo.id !== parseInt(id));
       localStorage.setItem('todo', JSON.stringify(Storagedata));
       addmarkup();
